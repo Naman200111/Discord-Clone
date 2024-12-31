@@ -1,0 +1,4 @@
+TODOS:
+1. Auth Fixing and working
+2. Prisma schema design and setup
+3.
